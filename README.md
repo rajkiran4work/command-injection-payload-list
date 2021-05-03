@@ -265,6 +265,7 @@ ipconfig
 && ipconfig /all
 ipconfig /all
 ls
+;ls
 $(`ls`)
 | ls -l /
 ; ls -l /
